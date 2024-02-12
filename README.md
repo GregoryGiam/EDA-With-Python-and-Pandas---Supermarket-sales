@@ -6,9 +6,9 @@ Link to datasource: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
 
 ## Attribute information
-Invoice id: Computer generated sales slip invoice identification number
-Branch: Branch of supercenter (3 branches are available identified by A, B and C).
-City: Location of supercenters
+#Invoice id: Computer generated sales slip invoice identification number
+#Branch: Branch of supercenter (3 branches are available identified by A, B and C).
+#City: Location of supercenters
 Customer type: Type of customers, recorded by Members for customers using member card and Normal for without member card.
 Gender: Gender type of customer
 Product line: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel
