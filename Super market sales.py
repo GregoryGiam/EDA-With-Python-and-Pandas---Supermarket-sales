@@ -76,6 +76,7 @@ df.groupby(df.index).mean()
 sns.lineplot(x=df.groupby(df.index).mean().index, y=df.groupby(df.index).mean()['gross income'])
 
 # Plot all the bivariate relationships possible
+# Pairplot creates a grid of scatterplots for the numerical columns in a DataFrame df. This function is especially useful for visualizing pairwise relationships between multiple variables in a dataset.
 sns.pairplot(df)
 
 # Task 4: Dealing with duplicate rows and missing values
